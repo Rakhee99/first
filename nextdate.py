@@ -23,7 +23,7 @@ elif(dd==31 and mm==12):
     dd=1
     mm=1
     yy=yy+1
-    print("The incremented date is: ",dd,mm,yy)
+    print("The incremented date is: ",dd,'/'mm,'/',yy)
 else:
     dd=dd+1
-    print("The incremented date is: ",dd,mm,yy)
+    print("The incremented date is: ",dd,'/',mm,'/',yy)
